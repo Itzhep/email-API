@@ -1,13 +1,13 @@
 {
-  "name": "email",
+  "name": "email-API",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "an Node.Js Api To Send Email",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Danialaasary",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
